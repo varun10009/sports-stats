@@ -1,73 +1,34 @@
-# Welcome to your Lovable project
+# Sports Stats
 
-## Project info
+A platform to understand sports statistics, view live news, and access stats from multiple sports including Cricket, Basketball, Football, and Tennis.
 
-**URL**: https://lovable.dev/projects/041b54cc-0f0a-4402-9de5-0d3efa389f54
+## Description
 
-## How can I edit this code?
+The **Sports Stats** project is designed to provide users with live sports news and detailed statistics for popular sports such as Cricket, Basketball, Football, and Tennis. It allows users to stay updated with the latest news and track the performance of teams, players, and match statistics.
 
-There are several ways of editing your application.
+## Features
 
-**Use Lovable**
+- **Live Sports News**: Get real-time updates and news for various sports.
+- **Sports Stats**: View detailed stats for Cricket, Basketball, Football, and Tennis.
+- **Responsive Design**: The platform is designed to be responsive and accessible across devices.
+- **Search Functionality**: Search for specific sports news and stats by team or player.
+- **Interactive UI**: User-friendly interface to view stats and news in an intuitive layout.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/041b54cc-0f0a-4402-9de5-0d3efa389f54) and start prompting.
+## Tech Stack
 
-Changes made via Lovable will be committed automatically to this repo.
+- **Frontend**: React, TypeScript (TSX)
+- **Styling**: Tailwind CSS, Regular CSS
+- **APIs**: (You can add the APIs you are using for fetching news or sports stats, e.g., Sports API, News API)
 
-**Use your preferred IDE**
+## Setup Instructions
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### 1. Clone the repository
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+```bash
+git clone https://github.com/your-username/sports-stats.git
 ```
+## Screeshots
 
-**Edit a file directly in GitHub**
+![image](https://github.com/user-attachments/assets/6da92c30-5316-4a40-8ef6-4bd8831ea567)
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
 
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/041b54cc-0f0a-4402-9de5-0d3efa389f54) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
